@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorToolbar">#17A5D4</color>
+
+    <!-- item choose color layout -->
+    <color name="colorChoose">#1ECDE8</color>
+    <color name="colorChooseBackground">#B8C9CF</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorC">#E6BA29</color>
+    <color name="colorX">#4AE894</color>
+    <color name="colorXnb">#1ECDE8</color>
+
+    <!-- disable button next and previous in edit activity  -->
+    <color name="colorTransparent">#DDffffff</color>
+
+</resources>
